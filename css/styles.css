@@ -1,7 +1,16 @@
+body{
+    justify-items: center;
+}
+
+main{
+    width: 40%;
+}
+
 table {
     width: 100%;
     border-collapse: collapse;  
     font-family: system-ui, sans-serif;
+    margin-top: 60px;
 }
 caption {
     text-align: left;
